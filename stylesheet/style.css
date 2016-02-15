@@ -3,3 +3,25 @@ header{
 text-align: center;
 font-size: 250%;
 }
+.top{
+	background-image: url(assets/da.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+	margin-top:0;
+	margin-bottom: 0;
+	margin-right: 0;
+	margin-left: 0;
+	width: 1827px;
+	height:400px;
+}
+.middle{
+	background-image: url(assets/daf.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-height:1000%;
+	width: 1827px;
+	height:200px;
+}
