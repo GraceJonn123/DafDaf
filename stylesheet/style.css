@@ -2,20 +2,27 @@
 header{
 text-align: center;
 font-size: 450%;
+font-family: 'Satisfy', cursive;
 }
 body{
 	background-image: url(assets/da.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
+	background-attachment: fixed;
 	color: white;
 	margin-top:0;
 	margin-bottom: 0;
 	margin-right: 0;
 	margin-left: 0;
 	width: 1200px;
-	height:600px;
+	height:610px;
+	font-family: 'Indie Flower', cursive;
 }
 .middle{
 	font-size:250%;
+	padding-left: 25px;
+}
+p{
+
 }
