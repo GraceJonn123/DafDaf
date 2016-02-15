@@ -5,6 +5,7 @@ font-size: 450%;
 font-family: 'Satisfy', cursive;
 }
 body{
+	text-align: center;
 	background-image: url(assets/da.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
@@ -20,8 +21,9 @@ body{
 	font-family: 'Indie Flower', cursive;
 }
 .middle{
-	font-size:250%;
-	padding-left: 25px;
+	font-size:200%;
+	padding-left: 30%;
+	width: 700px;
 }
 p{
 
