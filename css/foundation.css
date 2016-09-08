@@ -1909,7 +1909,7 @@ select {
     clear: both; }
   .top-bar,
   .top-bar ul {
-    background-color: white; }
+    background-color: #e6e6e6; }
   .top-bar input {
     max-width: 200px;
     margin-right: 1rem; }
